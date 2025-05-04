@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SystemMonitor": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

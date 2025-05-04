@@ -1,0 +1,4 @@
+{
+  "IntervalSeconds": 5,
+  "ApiUrl": "https://SystemMonitoring.com/metrics"
+}
