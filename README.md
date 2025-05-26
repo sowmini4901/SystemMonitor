@@ -19,6 +19,7 @@ A cross-platform .NET 8 console application that:
 ## Technologies Used
 
 - [.NET 8 SDK](https://dotnet.microsoft.com/)
+- .NET Core
 - `System.Diagnostics`, `System.IO`
 - `Newtonsoft.Json`
 
